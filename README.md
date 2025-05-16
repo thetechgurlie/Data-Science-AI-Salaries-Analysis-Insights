@@ -1,1 +1,1 @@
-# Data-Science-AI-Salaries-Analysis-Insights
+# Data Science and AI Salaries Analysis and Insights 
