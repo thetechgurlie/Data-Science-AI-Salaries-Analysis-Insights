@@ -27,7 +27,7 @@ This project explores trends in data science roles, salaries, and remote work us
 
 ## 🏃 **How to Run**
 * Download or clone the repository.
-* Open the Jupyter Notebook file in Jupyter Notebook or any compatible environment like VS Code or Kaggle.
+* Open the file in Jupyter Notebook or any compatible environment like VS Code or Kaggle.
 * Run the cells step-by-step to see the analysis and visualizations.
 
 ## ✅ **Conclusion**
