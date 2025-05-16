@@ -13,6 +13,7 @@ This project explores trends in data science roles, salaries, and remote work us
 
 ## 📂 **Dataset Overview**
 * **Dataset:** [Kaggle Data Science Salaries Dataset](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+* **Years Covered:** Up to 2023
 * **Columns Included:** Columns Included: work_year, experience_level, employment_type, job_title, salary, salary_currency, 
   salary_in_usd,employee_residence, remote_ratio, company_location, company_size.
 
